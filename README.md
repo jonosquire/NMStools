@@ -8,4 +8,4 @@ Mathematica package NMStools.m contains a number of tools that are useful for no
 
 3) pseudoModes - Given the spectrum and the desired inner product, finds the fastest growing linear structures [see Squire & Bhattacharjee, Astrophys. J., 797 67 (2014)]
 
-I also include a tutorial notebook, ExampleNMS, which goes through an example based on the advection equation.
+I also include a tutorial notebook, ExampleNMS, which goes through an example based on the advection equation. If you end up using it for research, I just ask that you cite [Squire & Bhattacharjee, Astrophys. J., 797 67 (2014)].
